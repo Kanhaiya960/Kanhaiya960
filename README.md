@@ -41,7 +41,7 @@ A personal portfolio website to showcase my projects and skills.
 
 ## Contact
 
-You can reach out to me via [kanhaiya@example.com](mailto:kanhaiya@example.com) or connect with me on [LinkedIn](#).
+You can reach out to me via [Gmail](mailto:kansa96022@gmail.com) or connect with me on [LinkedIn](kansa96022@gmail.com).
 
 <!---
 Kanhaiya960/Kanhaiya960 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
