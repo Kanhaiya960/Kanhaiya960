@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello, I am Kanhaiya, a passionate developer with a keen interest in [Your Fields of Interest]. I am constantly learning and looking to collaborate on exciting projects.
+Hello, I am Kanhaiya, a passionate developer with a keen interest in Development. I am constantly learning and looking to collaborate on exciting projects.
 
 - 👀 **Interests**: [Your Interests]
 - 🌱 **Currently Learning**: [What You Are Currently Learning]
