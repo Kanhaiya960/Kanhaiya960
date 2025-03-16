@@ -32,7 +32,6 @@ A personal portfolio website to showcase my projects and skills.
 ## Education
 
 ### 12th in Science
-[Your School Name], [Year of Graduation]
 
 ## Certifications
 
