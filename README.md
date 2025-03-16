@@ -2,54 +2,46 @@
 
 ## About Me
 
-Hello, I am Kanhaiya, a passionate developer with a keen interest in Development. I am constantly learning and looking to collaborate on exciting projects.
+Hello, I am Kanhaiya Lal Kumawat, a passionate developer with a keen interest in Artificial Intelligence and developing various applications including telegram bots, websites, gaming websites (gambling), and other productivity apps.
 
-- 👀 **Interests**: [Your Interests]
-- 🌱 **Currently Learning**: [What You Are Currently Learning]
-- 💼 **Looking to Collaborate On**: [Your Collaboration Interests]
-- 📫 **Contact Me**: [Your Contact Information]
-- 😄 **Pronouns**: [Your Pronouns]
-- ⚡ **Fun Fact**: [A Fun Fact About You]
+- 👀 **Interests**: AI, Telegram Bots, Web Development, Gaming Websites (Gambling), Productivity Apps
+- 🌱 **Currently Learning**: Advanced Machine Learning Algorithms, Web Development Frameworks
+- 💼 **Looking to Collaborate On**: Open Source Projects, AI Research, Web Development Projects
+- 📫 **Contact Me**: kansa96022@gmail.com
+- 😄 **Pronouns**: He
+- ⚡ **Fun Fact**: I love hiking and nature photography.
 
 ## Skills
 
-- **Programming Languages**: [List of Programming Languages]
-- **Frameworks and Libraries**: [List of Frameworks and Libraries]
-- **Tools and Platforms**: [List of Tools and Platforms]
+- **Programming Languages**: Python, JavaScript, C++
+- **Frameworks and Libraries**: TensorFlow, PyTorch, React.js
+- **Tools and Platforms**: Git, Docker, AWS
 
 ## Projects
 
-### [Project 1 Name]
-[Short Description of Project 1]
-- **Technologies Used**: [Technologies Used in Project 1]
-- [Link to Project 1]()
+### AI Chatbot
+A conversational AI chatbot designed to assist users with various tasks.
+- **Technologies Used**: Python, TensorFlow, NLTK
+- [Link to AI Chatbot](#)
 
-### [Project 2 Name]
-[Short Description of Project 2]
-- **Technologies Used**: [Technologies Used in Project 2]
-- [Link to Project 2]()
-
-## Professional Experience
-
-### [Your Job Title] at [Company Name]
-**[Start Date] - [End Date]**
-- [Key Responsibility or Achievement 1]
-- [Key Responsibility or Achievement 2]
-- [Key Responsibility or Achievement 3]
+### Personal Portfolio Website
+A personal portfolio website to showcase my projects and skills.
+- **Technologies Used**: HTML, CSS, JavaScript, React.js
+- [Link to Portfolio Website](#)
 
 ## Education
 
-### [Your Degree] in [Your Major]
-[Your University Name], [Year of Graduation]
+### 12th in Science
+[Your School Name], [Year of Graduation]
 
 ## Certifications
 
-- [Certification Name] - [Issuing Organization]
-- [Certification Name] - [Issuing Organization]
+- AWS Certified Solutions Architect - Amazon Web Services
+- Certified TensorFlow Developer - TensorFlow
 
 ## Contact
 
-You can reach out to me via [email@example.com](mailto:email@example.com) or connect with me on [LinkedIn](#).
+You can reach out to me via [kanhaiya@example.com](mailto:kanhaiya@example.com) or connect with me on [LinkedIn](#).
 
 <!---
 Kanhaiya960/Kanhaiya960 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
