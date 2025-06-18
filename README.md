@@ -1,4 +1,3 @@
-mongodb+srv://PikaFiles:Kanhaiya@cluster0.olrtq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 # Kanhaiya960
 
 ## About Me
